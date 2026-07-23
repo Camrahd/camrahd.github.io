@@ -56,27 +56,27 @@ const PROJECTS = [
 
 const PUBLICATIONS = [
   {
-    title:
-      "Agentic Retrieval-Augmented Generation for Multi-Document Reasoning",
+    title: "Domain-specific SQL generation with LLMs: A hybrid framework combining knowledge graphs and retrieval-augmentation",
+    venue: "Elsevier",
+    venueNote: "Elsevier",
+    year: "2026",
+    href: "https://www.sciencedirect.com/science/article/abs/pii/S1474034626002521",
+  },
+  {
+    title: "Automated SQL Query Generation for an Intelligent Sewer Management System Using Large Language Models",
     venue: "IEEE CASE",
     venueNote: "IEEE International Conference on Automation Science and Engineering",
     year: "2025",
-    href: "https://ieeexplore.ieee.org/",
+    href: "https://ieeexplore.ieee.org/abstract/document/11163844",
   },
   {
-    title: "Optimizing Retrieval Pipelines for Domain-Specific Language Models",
-    venue: "Elsevier",
-    venueNote: "Elsevier",
-    year: "2024",
-    href: "https://www.sciencedirect.com/",
-  },
-  {
-    title: "Scalable Backend Architectures for ML-Driven Applications",
+    title:
+      "Human action recognition based on depth maps, skeleton and sensor images using deep learning",
     venue: "IEEE",
     venueNote: "IEEE",
-    year: "2024",
-    href: "https://ieeexplore.ieee.org/",
-  },
+    year: "2022",
+    href: "https://ieeexplore.ieee.org/abstract/document/9971982",
+  }
 ];
 
 const SKILLS = [
